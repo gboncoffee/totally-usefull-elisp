@@ -2,5 +2,3 @@
 
 Just a few playfull and /totally usefull/ ~ELisp~ functions I wrote while
 playing with Emacs.
-
-#+INCLUDE: "usefull.el"
